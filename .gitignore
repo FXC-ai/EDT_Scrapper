@@ -1,0 +1,6 @@
+save_datas/
+*.json
+presentation/
+*.log
+ScrapEDTest/
+former_versions/
